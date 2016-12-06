@@ -1,0 +1,9 @@
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Debug\Ti9LeXML.dll
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Debug\Ti9LeXML.pdb
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Debug\Ti9LeXML.xml
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Debug\Ti9LeXML.Resources.resources
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Debug\Ti9LeXML.vbproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Debug\Ti9LeXML.dll
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Debug\Ti9LeXML.xml
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Debug\Ti9LeXML.pdb

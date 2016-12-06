@@ -1,0 +1,10 @@
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Release\ReadXML.dll
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Release\ReadXML.pdb
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Release\ReadXML.xml
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Release\ReadXML.Resources.resources
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Release\ReadXML.vbproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Release\ReadXML.dll
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Release\ReadXML.xml
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\obj\Release\ReadXML.pdb
+C:\Users\Flavio\Documents\Visual Studio 2008\Projects\Ti9LeXML\Ti9LeXML\bin\Release\ReadXML.tlb
